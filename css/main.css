@@ -10,11 +10,13 @@ a{
 
 a:hover{
     background-color:#999 ;
+    color:blue;
 }
 
 nav{
-    background: #000;
+    background:black;
     line-height: 5em;
+    
 }
 
 h1{
@@ -46,3 +48,8 @@ main{
 main:hover{
     background-color:#999 ;
 }
+
+
+
+
+
